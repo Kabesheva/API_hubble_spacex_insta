@@ -1,0 +1,10 @@
+.idea/
+.DS_Store/
+.env
+venv/
+images/
+secret.txt
+*.png
+*.jpg*
+__pycache__/
+config/
