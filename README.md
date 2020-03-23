@@ -74,5 +74,5 @@ python3 autopost_images.py
 
 Код написан в образовательных целях на онлайн-курсе для веб-разработчиков [dvmn.org](https://dvmn.org/).
 
+<a href="https://ibb.co/TT9Jsgs"><img src="https://i.ibb.co/z5qCz4z/image-3883.png" alt="image-3883" border="0"></a><br /><a target='_blank' href='https://ru.imgbb.com/'>Фото с телескопа Hubble</a><br />
 
-Фото с телескопа Hubble![Фото с телескопа Hubble](./image_3883.png)
